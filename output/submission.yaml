@@ -1,0 +1,1753 @@
+---
+comment: ''
+data_license:
+  description: The content can be shared and adapted but you must             give
+    appropriate credit and cannot restrict access to others.
+  name: cc-by-4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+---
+data_file: figure1_panel1.yaml
+description: NchRec v.s. Et
+keywords: []
+location: Page 10
+name: Figure1_Panel1
+---
+data_file: figure1_panel2.yaml
+description: <NchRec> w.r.t. Et
+keywords: []
+location: Page 10
+name: Figure1_Panel2
+---
+data_file: figure1_panel3.yaml
+description: <Et> w.r.t. NchRec
+keywords: []
+location: Page 10
+name: Figure1_Panel3
+---
+data_file: figure2_panel1.yaml
+description: Et distribution
+keywords: []
+location: Page 11
+name: Figure2_Panel1
+---
+data_file: figure2_panel2.yaml
+description: NchRec distribution
+keywords: []
+location: Page 11
+name: Figure2_Panel2
+---
+data_file: figure3_panel1_pt0.yaml
+description: v_2{2}, 3-subevent, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 13
+name: Figure3_Panel1_pt0
+---
+data_file: figure3_panel1_pt1.yaml
+description: v_2{2}, 3-subevent, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 13
+name: Figure3_Panel1_pt1
+---
+data_file: figure3_panel1_pt2.yaml
+description: v_2{2}, 3-subevent, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 13
+name: Figure3_Panel1_pt2
+---
+data_file: figure3_panel1_pt3.yaml
+description: v_2{2}, 3-subevent, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 13
+name: Figure3_Panel1_pt3
+---
+data_file: figure3_panel2_pt0.yaml
+description: v_3{2}, 3-subevent, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 13
+name: Figure3_Panel2_pt0
+---
+data_file: figure3_panel2_pt1.yaml
+description: v_3{2}, 3-subevent, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 13
+name: Figure3_Panel2_pt1
+---
+data_file: figure3_panel2_pt2.yaml
+description: v_3{2}, 3-subevent, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 13
+name: Figure3_Panel2_pt2
+---
+data_file: figure3_panel2_pt3.yaml
+description: v_3{2}, 3-subevent, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 13
+name: Figure3_Panel2_pt3
+---
+data_file: figure3_panel3_pt0.yaml
+description: v_4{2}, 3-subevent, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 13
+name: Figure3_Panel3_pt0
+---
+data_file: figure3_panel3_pt1.yaml
+description: v_4{2}, 3-subevent, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 13
+name: Figure3_Panel3_pt1
+---
+data_file: figure3_panel3_pt2.yaml
+description: v_4{2}, 3-subevent, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 13
+name: Figure3_Panel3_pt2
+---
+data_file: figure3_panel3_pt3.yaml
+description: v_4{2}, 3-subevent, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 13
+name: Figure3_Panel3_pt3
+---
+data_file: figure4_panel1_pt0.yaml
+description: nc_2{4}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 14
+name: Figure4_Panel1_pt0
+---
+data_file: figure4_panel1_pt1.yaml
+description: nc_2{4}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 14
+name: Figure4_Panel1_pt1
+---
+data_file: figure4_panel1_pt2.yaml
+description: nc_2{4}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 14
+name: Figure4_Panel1_pt2
+---
+data_file: figure4_panel1_pt3.yaml
+description: nc_2{4}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 14
+name: Figure4_Panel1_pt3
+---
+data_file: figure4_panel2_pt0.yaml
+description: nc_3{4}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 14
+name: Figure4_Panel2_pt0
+---
+data_file: figure4_panel2_pt1.yaml
+description: nc_3{4}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 14
+name: Figure4_Panel2_pt1
+---
+data_file: figure4_panel2_pt2.yaml
+description: nc_3{4}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 14
+name: Figure4_Panel2_pt2
+---
+data_file: figure4_panel2_pt3.yaml
+description: nc_3{4}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 14
+name: Figure4_Panel2_pt3
+---
+data_file: figure4_panel3_pt0.yaml
+description: nc_4{4}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 14
+name: Figure4_Panel3_pt0
+---
+data_file: figure4_panel3_pt1.yaml
+description: nc_4{4}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 14
+name: Figure4_Panel3_pt1
+---
+data_file: figure4_panel3_pt2.yaml
+description: nc_4{4}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 14
+name: Figure4_Panel3_pt2
+---
+data_file: figure4_panel3_pt3.yaml
+description: nc_4{4}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 14
+name: Figure4_Panel3_pt3
+---
+data_file: figure4_panel4_pt0.yaml
+description: nc_2{4}, 3-subevent, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 14
+name: Figure4_Panel4_pt0
+---
+data_file: figure4_panel4_pt1.yaml
+description: nc_2{4}, 3-subevent, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 14
+name: Figure4_Panel4_pt1
+---
+data_file: figure4_panel4_pt2.yaml
+description: nc_2{4}, 3-subevent, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 14
+name: Figure4_Panel4_pt2
+---
+data_file: figure4_panel4_pt3.yaml
+description: nc_2{4}, 3-subevent, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 14
+name: Figure4_Panel4_pt3
+---
+data_file: figure4_panel5_pt0.yaml
+description: nc_3{4}, 3-subevent, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 14
+name: Figure4_Panel5_pt0
+---
+data_file: figure4_panel5_pt1.yaml
+description: nc_3{4}, 3-subevent, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 14
+name: Figure4_Panel5_pt1
+---
+data_file: figure4_panel5_pt2.yaml
+description: nc_3{4}, 3-subevent, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 14
+name: Figure4_Panel5_pt2
+---
+data_file: figure4_panel5_pt3.yaml
+description: nc_3{4}, 3-subevent, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 14
+name: Figure4_Panel5_pt3
+---
+data_file: figure4_panel6_pt0.yaml
+description: nc_4{4}, 3-subevent, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 14
+name: Figure4_Panel6_pt0
+---
+data_file: figure4_panel6_pt1.yaml
+description: nc_4{4}, 3-subevent, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 14
+name: Figure4_Panel6_pt1
+---
+data_file: figure4_panel6_pt2.yaml
+description: nc_4{4}, 3-subevent, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 14
+name: Figure4_Panel6_pt2
+---
+data_file: figure4_panel6_pt3.yaml
+description: nc_4{4}, 3-subevent, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 14
+name: Figure4_Panel6_pt3
+---
+data_file: figure5_panel1_pt0.yaml
+description: v_2{4} / v_2{2}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 15
+name: Figure5_Panel1_pt0
+---
+data_file: figure5_panel1_pt1.yaml
+description: v_2{4} / v_2{2}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 15
+name: Figure5_Panel1_pt1
+---
+data_file: figure5_panel1_pt2.yaml
+description: v_2{4} / v_2{2}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 15
+name: Figure5_Panel1_pt2
+---
+data_file: figure5_panel1_pt3.yaml
+description: v_2{4} / v_2{2}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 15
+name: Figure5_Panel1_pt3
+---
+data_file: figure5_panel2_pt0.yaml
+description: v_3{4} / v_3{2}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 15
+name: Figure5_Panel2_pt0
+---
+data_file: figure5_panel2_pt1.yaml
+description: v_3{4} / v_3{2}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 15
+name: Figure5_Panel2_pt1
+---
+data_file: figure5_panel2_pt2.yaml
+description: v_3{4} / v_3{2}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 15
+name: Figure5_Panel2_pt2
+---
+data_file: figure5_panel2_pt3.yaml
+description: v_3{4} / v_3{2}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 15
+name: Figure5_Panel2_pt3
+---
+data_file: figure5_panel3_pt0.yaml
+description: v_4{4} / v_4{2}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 15
+name: Figure5_Panel3_pt0
+---
+data_file: figure5_panel3_pt1.yaml
+description: v_4{4} / v_4{2}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 15
+name: Figure5_Panel3_pt1
+---
+data_file: figure5_panel3_pt2.yaml
+description: v_4{4} / v_4{2}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 15
+name: Figure5_Panel3_pt2
+---
+data_file: figure5_panel3_pt3.yaml
+description: v_4{4} / v_4{2}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 15
+name: Figure5_Panel3_pt3
+---
+data_file: figure6_panel1_pt0.yaml
+description: nc_2{6}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 16
+name: Figure6_Panel1_pt0
+---
+data_file: figure6_panel1_pt1.yaml
+description: nc_2{6}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 16
+name: Figure6_Panel1_pt1
+---
+data_file: figure6_panel1_pt2.yaml
+description: nc_2{6}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 16
+name: Figure6_Panel1_pt2
+---
+data_file: figure6_panel1_pt3.yaml
+description: nc_2{6}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 16
+name: Figure6_Panel1_pt3
+---
+data_file: figure6_panel2_pt0.yaml
+description: nc_3{6}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 16
+name: Figure6_Panel2_pt0
+---
+data_file: figure6_panel2_pt1.yaml
+description: nc_3{6}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 16
+name: Figure6_Panel2_pt1
+---
+data_file: figure6_panel2_pt2.yaml
+description: nc_3{6}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 16
+name: Figure6_Panel2_pt2
+---
+data_file: figure6_panel2_pt3.yaml
+description: nc_3{6}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 16
+name: Figure6_Panel2_pt3
+---
+data_file: figure6_panel3_pt0.yaml
+description: nc_4{6}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 16
+name: Figure6_Panel3_pt0
+---
+data_file: figure6_panel3_pt1.yaml
+description: nc_4{6}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 16
+name: Figure6_Panel3_pt1
+---
+data_file: figure6_panel3_pt2.yaml
+description: nc_4{6}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 16
+name: Figure6_Panel3_pt2
+---
+data_file: figure6_panel3_pt3.yaml
+description: nc_4{6}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 16
+name: Figure6_Panel3_pt3
+---
+data_file: figure7_pt0.yaml
+description: v_2{6} / v_2{4}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 16
+name: Figure7_pt0
+---
+data_file: figure7_pt1.yaml
+description: v_2{6} / v_2{4}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 16
+name: Figure7_pt1
+---
+data_file: figure7_pt2.yaml
+description: v_2{6} / v_2{4}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 16
+name: Figure7_pt2
+---
+data_file: figure7_pt3.yaml
+description: v_2{6} / v_2{4}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 16
+name: Figure7_pt3
+---
+data_file: figure8_panel1_pt0.yaml
+description: c_1{4}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 17
+name: Figure8_Panel1_pt0
+---
+data_file: figure8_panel1_pt1.yaml
+description: c_1{4}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 17
+name: Figure8_Panel1_pt1
+---
+data_file: figure8_panel1_pt2.yaml
+description: c_1{4}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 17
+name: Figure8_Panel1_pt2
+---
+data_file: figure8_panel1_pt3.yaml
+description: c_1{4}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 17
+name: Figure8_Panel1_pt3
+---
+data_file: figure8_panel2_pt0.yaml
+description: c_1{4}, 3-subevent, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 17
+name: Figure8_Panel2_pt0
+---
+data_file: figure8_panel2_pt1.yaml
+description: c_1{4}, 3-subevent, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 17
+name: Figure8_Panel2_pt1
+---
+data_file: figure8_panel2_pt2.yaml
+description: c_1{4}, 3-subevent, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 17
+name: Figure8_Panel2_pt2
+---
+data_file: figure8_panel2_pt3.yaml
+description: c_1{4}, 3-subevent, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 17
+name: Figure8_Panel2_pt3
+---
+data_file: figure9_panel1_pt0.yaml
+description: v_1{4}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 18
+name: Figure9_Panel1_pt0
+---
+data_file: figure9_panel1_pt1.yaml
+description: v_1{4}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 18
+name: Figure9_Panel1_pt1
+---
+data_file: figure9_panel2_pt0.yaml
+description: v_1{4}, 3-subevent, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 18
+name: Figure9_Panel2_pt0
+---
+data_file: figure9_panel2_pt1.yaml
+description: v_1{4}, 3-subevent, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 18
+name: Figure9_Panel2_pt1
+---
+data_file: figure10_panel1_pt0.yaml
+description: nsc_2_3{4}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 18
+name: Figure10_Panel1_pt0
+---
+data_file: figure10_panel1_pt1.yaml
+description: nsc_2_3{4}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 18
+name: Figure10_Panel1_pt1
+---
+data_file: figure10_panel1_pt2.yaml
+description: nsc_2_3{4}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 18
+name: Figure10_Panel1_pt2
+---
+data_file: figure10_panel1_pt3.yaml
+description: nsc_2_3{4}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 18
+name: Figure10_Panel1_pt3
+---
+data_file: figure10_panel2_pt0.yaml
+description: nsc_2_3{4}, 3-subevent, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 18
+name: Figure10_Panel2_pt0
+---
+data_file: figure10_panel2_pt1.yaml
+description: nsc_2_3{4}, 3-subevent, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 18
+name: Figure10_Panel2_pt1
+---
+data_file: figure10_panel2_pt2.yaml
+description: nsc_2_3{4}, 3-subevent, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 18
+name: Figure10_Panel2_pt2
+---
+data_file: figure10_panel2_pt3.yaml
+description: nsc_2_3{4}, 3-subevent, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 18
+name: Figure10_Panel2_pt3
+---
+data_file: figure11_panel1_pt0.yaml
+description: nsc_2_4{4}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 19
+name: Figure11_Panel1_pt0
+---
+data_file: figure11_panel1_pt1.yaml
+description: nsc_2_4{4}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 19
+name: Figure11_Panel1_pt1
+---
+data_file: figure11_panel1_pt2.yaml
+description: nsc_2_4{4}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 19
+name: Figure11_Panel1_pt2
+---
+data_file: figure11_panel1_pt3.yaml
+description: nsc_2_4{4}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 19
+name: Figure11_Panel1_pt3
+---
+data_file: figure11_panel2_pt0.yaml
+description: nsc_2_4{4}, 3-subevent, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 19
+name: Figure11_Panel2_pt0
+---
+data_file: figure11_panel2_pt1.yaml
+description: nsc_2_4{4}, 3-subevent, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 19
+name: Figure11_Panel2_pt1
+---
+data_file: figure11_panel2_pt2.yaml
+description: nsc_2_4{4}, 3-subevent, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 19
+name: Figure11_Panel2_pt2
+---
+data_file: figure11_panel2_pt3.yaml
+description: nsc_2_4{4}, 3-subevent, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 19
+name: Figure11_Panel2_pt3
+---
+data_file: figure12_panel1_pt0.yaml
+description: nac_2{3}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 20
+name: Figure12_Panel1_pt0
+---
+data_file: figure12_panel1_pt1.yaml
+description: nac_2{3}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 20
+name: Figure12_Panel1_pt1
+---
+data_file: figure12_panel1_pt2.yaml
+description: nac_2{3}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 20
+name: Figure12_Panel1_pt2
+---
+data_file: figure12_panel1_pt3.yaml
+description: nac_2{3}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 20
+name: Figure12_Panel1_pt3
+---
+data_file: figure12_panel2_pt0.yaml
+description: nac_2{3}, 3-subevent, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 20
+name: Figure12_Panel2_pt0
+---
+data_file: figure12_panel2_pt1.yaml
+description: nac_2{3}, 3-subevent, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 20
+name: Figure12_Panel2_pt1
+---
+data_file: figure12_panel2_pt2.yaml
+description: nac_2{3}, 3-subevent, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 20
+name: Figure12_Panel2_pt2
+---
+data_file: figure12_panel2_pt3.yaml
+description: nac_2{3}, 3-subevent, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 20
+name: Figure12_Panel2_pt3
+---
+data_file: figure13_panel1_pt0.yaml
+description: v_2{2, Et}, 3-subevent, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 21
+name: Figure13_Panel1_pt0
+---
+data_file: figure13_panel1_pt1.yaml
+description: v_2{2, Et}, 3-subevent, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 21
+name: Figure13_Panel1_pt1
+---
+data_file: figure13_panel1_pt2.yaml
+description: v_2{2, Et}, 3-subevent, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 21
+name: Figure13_Panel1_pt2
+---
+data_file: figure13_panel1_pt3.yaml
+description: v_2{2, Et}, 3-subevent, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 21
+name: Figure13_Panel1_pt3
+---
+data_file: figure13_panel2_pt0.yaml
+description: v_3{2, Et}, 3-subevent, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 21
+name: Figure13_Panel2_pt0
+---
+data_file: figure13_panel2_pt1.yaml
+description: v_3{2, Et}, 3-subevent, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 21
+name: Figure13_Panel2_pt1
+---
+data_file: figure13_panel2_pt2.yaml
+description: v_3{2, Et}, 3-subevent, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 21
+name: Figure13_Panel2_pt2
+---
+data_file: figure13_panel2_pt3.yaml
+description: v_3{2, Et}, 3-subevent, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 21
+name: Figure13_Panel2_pt3
+---
+data_file: figure13_panel3_pt0.yaml
+description: v_4{2, Et}, 3-subevent, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 21
+name: Figure13_Panel3_pt0
+---
+data_file: figure13_panel3_pt1.yaml
+description: v_4{2, Et}, 3-subevent, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 21
+name: Figure13_Panel3_pt1
+---
+data_file: figure13_panel3_pt2.yaml
+description: v_4{2, Et}, 3-subevent, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 21
+name: Figure13_Panel3_pt2
+---
+data_file: figure13_panel3_pt3.yaml
+description: v_4{2, Et}, 3-subevent, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 21
+name: Figure13_Panel3_pt3
+---
+data_file: figure13_panel4_pt0.yaml
+description: v_2{2, Nch}, 3-subevent, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 21
+name: Figure13_Panel4_pt0
+---
+data_file: figure13_panel4_pt1.yaml
+description: v_2{2, Nch}, 3-subevent, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 21
+name: Figure13_Panel4_pt1
+---
+data_file: figure13_panel4_pt2.yaml
+description: v_2{2, Nch}, 3-subevent, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 21
+name: Figure13_Panel4_pt2
+---
+data_file: figure13_panel4_pt3.yaml
+description: v_2{2, Nch}, 3-subevent, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 21
+name: Figure13_Panel4_pt3
+---
+data_file: figure13_panel5_pt0.yaml
+description: v_3{2, Nch}, 3-subevent, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 21
+name: Figure13_Panel5_pt0
+---
+data_file: figure13_panel5_pt1.yaml
+description: v_3{2, Nch}, 3-subevent, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 21
+name: Figure13_Panel5_pt1
+---
+data_file: figure13_panel5_pt2.yaml
+description: v_3{2, Nch}, 3-subevent, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 21
+name: Figure13_Panel5_pt2
+---
+data_file: figure13_panel5_pt3.yaml
+description: v_3{2, Nch}, 3-subevent, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 21
+name: Figure13_Panel5_pt3
+---
+data_file: figure13_panel6_pt0.yaml
+description: v_4{2, Nch}, 3-subevent, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 21
+name: Figure13_Panel6_pt0
+---
+data_file: figure13_panel6_pt1.yaml
+description: v_4{2, Nch}, 3-subevent, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 21
+name: Figure13_Panel6_pt1
+---
+data_file: figure13_panel6_pt2.yaml
+description: v_4{2, Nch}, 3-subevent, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 21
+name: Figure13_Panel6_pt2
+---
+data_file: figure13_panel6_pt3.yaml
+description: v_4{2, Nch}, 3-subevent, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 21
+name: Figure13_Panel6_pt3
+---
+data_file: figure14_panel1_pt0.yaml
+description: v_2{2, Nch} / v_2{2, Et}, 3-subevent, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 22
+name: Figure14_Panel1_pt0
+---
+data_file: figure14_panel1_pt1.yaml
+description: v_2{2, Nch} / v_2{2, Et}, 3-subevent, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 22
+name: Figure14_Panel1_pt1
+---
+data_file: figure14_panel2_pt0.yaml
+description: v_3{2, Nch} / v_3{2, Et}, 3-subevent, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 22
+name: Figure14_Panel2_pt0
+---
+data_file: figure14_panel2_pt1.yaml
+description: v_3{2, Nch} / v_3{2, Et}, 3-subevent, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 22
+name: Figure14_Panel2_pt1
+---
+data_file: figure14_panel3_pt0.yaml
+description: v_4{2, Nch} / v_4{2, Et}, 3-subevent, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 22
+name: Figure14_Panel3_pt0
+---
+data_file: figure14_panel3_pt1.yaml
+description: v_4{2, Nch} / v_4{2, Et}, 3-subevent, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 22
+name: Figure14_Panel3_pt1
+---
+data_file: figure14_panel4_pt0.yaml
+description: v_2{2, Nch} / v_2{2, Et}, 3-subevent, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 22
+name: Figure14_Panel4_pt0
+---
+data_file: figure14_panel4_pt1.yaml
+description: v_2{2, Nch} / v_2{2, Et}, 3-subevent, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 22
+name: Figure14_Panel4_pt1
+---
+data_file: figure14_panel5_pt0.yaml
+description: v_3{2, Nch} / v_3{2, Et}, 3-subevent, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 22
+name: Figure14_Panel5_pt0
+---
+data_file: figure14_panel5_pt1.yaml
+description: v_3{2, Nch} / v_3{2, Et}, 3-subevent, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 22
+name: Figure14_Panel5_pt1
+---
+data_file: figure14_panel6_pt0.yaml
+description: v_4{2, Nch} / v_4{2, Et}, 3-subevent, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 22
+name: Figure14_Panel6_pt0
+---
+data_file: figure14_panel6_pt1.yaml
+description: v_4{2, Nch} / v_4{2, Et}, 3-subevent, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 22
+name: Figure14_Panel6_pt1
+---
+data_file: figure15_panel1_pt0.yaml
+description: nc_2{4, Et}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 23
+name: Figure15_Panel1_pt0
+---
+data_file: figure15_panel1_pt1.yaml
+description: nc_2{4, Et}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 23
+name: Figure15_Panel1_pt1
+---
+data_file: figure15_panel1_pt2.yaml
+description: nc_2{4, Et}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 23
+name: Figure15_Panel1_pt2
+---
+data_file: figure15_panel1_pt3.yaml
+description: nc_2{4, Et}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 23
+name: Figure15_Panel1_pt3
+---
+data_file: figure15_panel2_pt0.yaml
+description: nc_3{4, Et}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 23
+name: Figure15_Panel2_pt0
+---
+data_file: figure15_panel2_pt1.yaml
+description: nc_3{4, Et}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 23
+name: Figure15_Panel2_pt1
+---
+data_file: figure15_panel2_pt2.yaml
+description: nc_3{4, Et}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 23
+name: Figure15_Panel2_pt2
+---
+data_file: figure15_panel2_pt3.yaml
+description: nc_3{4, Et}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 23
+name: Figure15_Panel2_pt3
+---
+data_file: figure15_panel3_pt0.yaml
+description: nc_4{4, Et}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 23
+name: Figure15_Panel3_pt0
+---
+data_file: figure15_panel3_pt1.yaml
+description: nc_4{4, Et}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 23
+name: Figure15_Panel3_pt1
+---
+data_file: figure15_panel3_pt2.yaml
+description: nc_4{4, Et}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 23
+name: Figure15_Panel3_pt2
+---
+data_file: figure15_panel3_pt3.yaml
+description: nc_4{4, Et}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 23
+name: Figure15_Panel3_pt3
+---
+data_file: figure15_panel4_pt0.yaml
+description: nc_2{4, Nch}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 23
+name: Figure15_Panel4_pt0
+---
+data_file: figure15_panel4_pt1.yaml
+description: nc_2{4, Nch}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 23
+name: Figure15_Panel4_pt1
+---
+data_file: figure15_panel4_pt2.yaml
+description: nc_2{4, Nch}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 23
+name: Figure15_Panel4_pt2
+---
+data_file: figure15_panel4_pt3.yaml
+description: nc_2{4, Nch}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 23
+name: Figure15_Panel4_pt3
+---
+data_file: figure15_panel5_pt0.yaml
+description: nc_3{4, Nch}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 23
+name: Figure15_Panel5_pt0
+---
+data_file: figure15_panel5_pt1.yaml
+description: nc_3{4, Nch}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 23
+name: Figure15_Panel5_pt1
+---
+data_file: figure15_panel5_pt2.yaml
+description: nc_3{4, Nch}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 23
+name: Figure15_Panel5_pt2
+---
+data_file: figure15_panel5_pt3.yaml
+description: nc_3{4, Nch}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 23
+name: Figure15_Panel5_pt3
+---
+data_file: figure15_panel6_pt0.yaml
+description: nc_4{4, Nch}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 23
+name: Figure15_Panel6_pt0
+---
+data_file: figure15_panel6_pt1.yaml
+description: nc_4{4, Nch}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 23
+name: Figure15_Panel6_pt1
+---
+data_file: figure15_panel6_pt2.yaml
+description: nc_4{4, Nch}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 23
+name: Figure15_Panel6_pt2
+---
+data_file: figure15_panel6_pt3.yaml
+description: nc_4{4, Nch}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 23
+name: Figure15_Panel6_pt3
+---
+data_file: figure16_panel1_et.yaml
+description: nc_2{4, Et}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 23
+name: Figure16_Panel1_Et
+---
+data_file: figure16_panel1_nchrec.yaml
+description: nc_2{4, Nch}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 23
+name: Figure16_Panel1_NchRec
+---
+data_file: figure16_panel2_et.yaml
+description: nc_3{4, Et}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 23
+name: Figure16_Panel2_Et
+---
+data_file: figure16_panel2_nchrec.yaml
+description: nc_3{4, Nch}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 23
+name: Figure16_Panel2_NchRec
+---
+data_file: figure16_panel3_et.yaml
+description: nc_4{4, Et}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 23
+name: Figure16_Panel3_Et
+---
+data_file: figure16_panel3_nchrec.yaml
+description: nc_4{4, Nch}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 23
+name: Figure16_Panel3_NchRec
+---
+data_file: figure17_panel1_pt0.yaml
+description: nc_2{6, Et}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 24
+name: Figure17_Panel1_pt0
+---
+data_file: figure17_panel1_pt1.yaml
+description: nc_2{6, Et}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 24
+name: Figure17_Panel1_pt1
+---
+data_file: figure17_panel1_pt2.yaml
+description: nc_2{6, Et}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 24
+name: Figure17_Panel1_pt2
+---
+data_file: figure17_panel1_pt3.yaml
+description: nc_2{6, Et}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 24
+name: Figure17_Panel1_pt3
+---
+data_file: figure17_panel2_pt0.yaml
+description: nc_2{6, Nch}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 24
+name: Figure17_Panel2_pt0
+---
+data_file: figure17_panel2_pt1.yaml
+description: nc_2{6, Nch}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 24
+name: Figure17_Panel2_pt1
+---
+data_file: figure17_panel2_pt2.yaml
+description: nc_2{6, Nch}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 24
+name: Figure17_Panel2_pt2
+---
+data_file: figure17_panel2_pt3.yaml
+description: nc_2{6, Nch}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 24
+name: Figure17_Panel2_pt3
+---
+data_file: figure17_panel3_et.yaml
+description: nc_2{6, Et}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 24
+name: Figure17_Panel3_Et
+---
+data_file: figure17_panel3_nchrec.yaml
+description: nc_2{6, Nch}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 24
+name: Figure17_Panel3_NchRec
+---
+data_file: figure18_panel1_pt0.yaml
+description: v_2{6, Et} / v_2{4, Et}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 25
+name: Figure18_Panel1_pt0
+---
+data_file: figure18_panel1_pt1.yaml
+description: v_2{6, Et} / v_2{4, Et}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 25
+name: Figure18_Panel1_pt1
+---
+data_file: figure18_panel1_pt2.yaml
+description: v_2{6, Et} / v_2{4, Et}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 25
+name: Figure18_Panel1_pt2
+---
+data_file: figure18_panel1_pt3.yaml
+description: v_2{6, Et} / v_2{4, Et}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 25
+name: Figure18_Panel1_pt3
+---
+data_file: figure18_panel2_pt0.yaml
+description: v_2{6, Nch} / v_2{4, Nch}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 25
+name: Figure18_Panel2_pt0
+---
+data_file: figure18_panel2_pt1.yaml
+description: v_2{6, Nch} / v_2{4, Nch}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 25
+name: Figure18_Panel2_pt1
+---
+data_file: figure18_panel2_pt2.yaml
+description: v_2{6, Nch} / v_2{4, Nch}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 25
+name: Figure18_Panel2_pt2
+---
+data_file: figure18_panel2_pt3.yaml
+description: v_2{6, Nch} / v_2{4, Nch}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 25
+name: Figure18_Panel2_pt3
+---
+data_file: figure19_panel1_pt0.yaml
+description: nsc_2_3{4, Et}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 26
+name: Figure19_Panel1_pt0
+---
+data_file: figure19_panel1_pt1.yaml
+description: nsc_2_3{4, Et}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 26
+name: Figure19_Panel1_pt1
+---
+data_file: figure19_panel1_pt2.yaml
+description: nsc_2_3{4, Et}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 26
+name: Figure19_Panel1_pt2
+---
+data_file: figure19_panel1_pt3.yaml
+description: nsc_2_3{4, Et}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 26
+name: Figure19_Panel1_pt3
+---
+data_file: figure19_panel2_pt0.yaml
+description: nsc_2_4{4, Et}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 26
+name: Figure19_Panel2_pt0
+---
+data_file: figure19_panel2_pt1.yaml
+description: nsc_2_4{4, Et}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 26
+name: Figure19_Panel2_pt1
+---
+data_file: figure19_panel2_pt2.yaml
+description: nsc_2_4{4, Et}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 26
+name: Figure19_Panel2_pt2
+---
+data_file: figure19_panel2_pt3.yaml
+description: nsc_2_4{4, Et}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 26
+name: Figure19_Panel2_pt3
+---
+data_file: figure19_panel3_pt0.yaml
+description: nac_2{3, Et}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 26
+name: Figure19_Panel3_pt0
+---
+data_file: figure19_panel3_pt1.yaml
+description: nac_2{3, Et}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 26
+name: Figure19_Panel3_pt1
+---
+data_file: figure19_panel3_pt2.yaml
+description: nac_2{3, Et}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 26
+name: Figure19_Panel3_pt2
+---
+data_file: figure19_panel3_pt3.yaml
+description: nac_2{3, Et}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 26
+name: Figure19_Panel3_pt3
+---
+data_file: figure19_panel4_pt0.yaml
+description: nsc_2_3{4, Nch}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 26
+name: Figure19_Panel4_pt0
+---
+data_file: figure19_panel4_pt1.yaml
+description: nsc_2_3{4, Nch}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 26
+name: Figure19_Panel4_pt1
+---
+data_file: figure19_panel4_pt2.yaml
+description: nsc_2_3{4, Nch}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 26
+name: Figure19_Panel4_pt2
+---
+data_file: figure19_panel4_pt3.yaml
+description: nsc_2_3{4, Nch}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 26
+name: Figure19_Panel4_pt3
+---
+data_file: figure19_panel5_pt0.yaml
+description: nsc_2_4{4, Nch}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 26
+name: Figure19_Panel5_pt0
+---
+data_file: figure19_panel5_pt1.yaml
+description: nsc_2_4{4, Nch}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 26
+name: Figure19_Panel5_pt1
+---
+data_file: figure19_panel5_pt2.yaml
+description: nsc_2_4{4, Nch}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 26
+name: Figure19_Panel5_pt2
+---
+data_file: figure19_panel5_pt3.yaml
+description: nsc_2_4{4, Nch}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 26
+name: Figure19_Panel5_pt3
+---
+data_file: figure19_panel6_pt0.yaml
+description: nac_2{3, Nch}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 26
+name: Figure19_Panel6_pt0
+---
+data_file: figure19_panel6_pt1.yaml
+description: nac_2{3, Nch}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 26
+name: Figure19_Panel6_pt1
+---
+data_file: figure19_panel6_pt2.yaml
+description: nac_2{3, Nch}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 26
+name: Figure19_Panel6_pt2
+---
+data_file: figure19_panel6_pt3.yaml
+description: nac_2{3, Nch}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 26
+name: Figure19_Panel6_pt3
+---
+data_file: figure20_panel1_et.yaml
+description: nsc_2_3{4, Et}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 26
+name: Figure20_Panel1_Et
+---
+data_file: figure20_panel1_nchrec.yaml
+description: nsc_2_3{4, Nch}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 26
+name: Figure20_Panel1_NchRec
+---
+data_file: figure20_panel2_et.yaml
+description: nsc_2_4{4, Et}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 26
+name: Figure20_Panel2_Et
+---
+data_file: figure20_panel2_nchrec.yaml
+description: nsc_2_4{4, Nch}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 26
+name: Figure20_Panel2_NchRec
+---
+data_file: figure20_panel3_et.yaml
+description: nac_2{3, Et}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 26
+name: Figure20_Panel3_Et
+---
+data_file: figure20_panel3_nchrec.yaml
+description: nac_2{3, Nch}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 26
+name: Figure20_Panel3_NchRec
+---
+data_file: figure21_panel1_pt0.yaml
+description: v_2{4}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 28
+name: Figure21_Panel1_pt0
+---
+data_file: figure21_panel1_pt1.yaml
+description: v_2{4}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 28
+name: Figure21_Panel1_pt1
+---
+data_file: figure21_panel1_pt2.yaml
+description: v_2{4}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 28
+name: Figure21_Panel1_pt2
+---
+data_file: figure21_panel1_pt3.yaml
+description: v_2{4}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 28
+name: Figure21_Panel1_pt3
+---
+data_file: figure21_panel2_pt0.yaml
+description: v_2{4, Et}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 28
+name: Figure21_Panel2_pt0
+---
+data_file: figure21_panel2_pt1.yaml
+description: v_2{4, Et}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 28
+name: Figure21_Panel2_pt1
+---
+data_file: figure21_panel2_pt2.yaml
+description: v_2{4, Et}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 28
+name: Figure21_Panel2_pt2
+---
+data_file: figure21_panel2_pt3.yaml
+description: v_2{4, Et}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 28
+name: Figure21_Panel2_pt3
+---
+data_file: figure21_panel3_pt0.yaml
+description: v_2{4, Nch}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 28
+name: Figure21_Panel3_pt0
+---
+data_file: figure21_panel3_pt1.yaml
+description: v_2{4, Nch}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 28
+name: Figure21_Panel3_pt1
+---
+data_file: figure21_panel3_pt2.yaml
+description: v_2{4, Nch}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 28
+name: Figure21_Panel3_pt2
+---
+data_file: figure21_panel3_pt3.yaml
+description: v_2{4, Nch}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 28
+name: Figure21_Panel3_pt3
+---
+data_file: figure22_panel1_pt0.yaml
+description: v_3{4}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 28
+name: Figure22_Panel1_pt0
+---
+data_file: figure22_panel1_pt1.yaml
+description: v_3{4}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 28
+name: Figure22_Panel1_pt1
+---
+data_file: figure22_panel1_pt2.yaml
+description: v_3{4}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 28
+name: Figure22_Panel1_pt2
+---
+data_file: figure22_panel1_pt3.yaml
+description: v_3{4}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 28
+name: Figure22_Panel1_pt3
+---
+data_file: figure22_panel2_pt0.yaml
+description: v_3{4, Et}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 28
+name: Figure22_Panel2_pt0
+---
+data_file: figure22_panel2_pt1.yaml
+description: v_3{4, Et}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 28
+name: Figure22_Panel2_pt1
+---
+data_file: figure22_panel2_pt2.yaml
+description: v_3{4, Et}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 28
+name: Figure22_Panel2_pt2
+---
+data_file: figure22_panel2_pt3.yaml
+description: v_3{4, Et}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 28
+name: Figure22_Panel2_pt3
+---
+data_file: figure22_panel3_pt0.yaml
+description: v_3{4, Nch}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 28
+name: Figure22_Panel3_pt0
+---
+data_file: figure22_panel3_pt1.yaml
+description: v_3{4, Nch}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 28
+name: Figure22_Panel3_pt1
+---
+data_file: figure22_panel3_pt2.yaml
+description: v_3{4, Nch}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 28
+name: Figure22_Panel3_pt2
+---
+data_file: figure22_panel3_pt3.yaml
+description: v_3{4, Nch}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 28
+name: Figure22_Panel3_pt3
+---
+data_file: figure23_panel1_pt0.yaml
+description: v_4{4}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 28
+name: Figure23_Panel1_pt0
+---
+data_file: figure23_panel1_pt1.yaml
+description: v_4{4}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 28
+name: Figure23_Panel1_pt1
+---
+data_file: figure23_panel1_pt2.yaml
+description: v_4{4}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 28
+name: Figure23_Panel1_pt2
+---
+data_file: figure23_panel1_pt3.yaml
+description: v_4{4}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 28
+name: Figure23_Panel1_pt3
+---
+data_file: figure23_panel2_pt0.yaml
+description: v_4{4, Et}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 28
+name: Figure23_Panel2_pt0
+---
+data_file: figure23_panel2_pt1.yaml
+description: v_4{4, Et}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 28
+name: Figure23_Panel2_pt1
+---
+data_file: figure23_panel2_pt2.yaml
+description: v_4{4, Et}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 28
+name: Figure23_Panel2_pt2
+---
+data_file: figure23_panel2_pt3.yaml
+description: v_4{4, Et}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 28
+name: Figure23_Panel2_pt3
+---
+data_file: figure23_panel3_pt0.yaml
+description: v_4{4, Nch}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 28
+name: Figure23_Panel3_pt0
+---
+data_file: figure23_panel3_pt1.yaml
+description: v_4{4, Nch}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 28
+name: Figure23_Panel3_pt1
+---
+data_file: figure23_panel3_pt2.yaml
+description: v_4{4, Nch}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 28
+name: Figure23_Panel3_pt2
+---
+data_file: figure23_panel3_pt3.yaml
+description: v_4{4, Nch}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 28
+name: Figure23_Panel3_pt3
+---
+data_file: figure24_panel1_pt0.yaml
+description: v_2{6}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 29
+name: Figure24_Panel1_pt0
+---
+data_file: figure24_panel1_pt1.yaml
+description: v_2{6}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 29
+name: Figure24_Panel1_pt1
+---
+data_file: figure24_panel1_pt2.yaml
+description: v_2{6}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 29
+name: Figure24_Panel1_pt2
+---
+data_file: figure24_panel1_pt3.yaml
+description: v_2{6}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 29
+name: Figure24_Panel1_pt3
+---
+data_file: figure24_panel2_pt0.yaml
+description: v_2{6, Et}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 29
+name: Figure24_Panel2_pt0
+---
+data_file: figure24_panel2_pt1.yaml
+description: v_2{6, Et}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 29
+name: Figure24_Panel2_pt1
+---
+data_file: figure24_panel2_pt2.yaml
+description: v_2{6, Et}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 29
+name: Figure24_Panel2_pt2
+---
+data_file: figure24_panel2_pt3.yaml
+description: v_2{6, Et}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 29
+name: Figure24_Panel2_pt3
+---
+data_file: figure24_panel3_pt0.yaml
+description: v_2{6, Nch}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 29
+name: Figure24_Panel3_pt0
+---
+data_file: figure24_panel3_pt1.yaml
+description: v_2{6, Nch}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 29
+name: Figure24_Panel3_pt1
+---
+data_file: figure24_panel3_pt2.yaml
+description: v_2{6, Nch}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 29
+name: Figure24_Panel3_pt2
+---
+data_file: figure24_panel3_pt3.yaml
+description: v_2{6, Nch}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 29
+name: Figure24_Panel3_pt3
+---
+data_file: figure28_panel1_pt0.yaml
+description: sc_2_3{4}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 31
+name: Figure28_Panel1_pt0
+---
+data_file: figure28_panel1_pt1.yaml
+description: sc_2_3{4}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 31
+name: Figure28_Panel1_pt1
+---
+data_file: figure28_panel1_pt2.yaml
+description: sc_2_3{4}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 31
+name: Figure28_Panel1_pt2
+---
+data_file: figure28_panel1_pt3.yaml
+description: sc_2_3{4}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 31
+name: Figure28_Panel1_pt3
+---
+data_file: figure28_panel2_pt0.yaml
+description: sc_2_3{4}, 3-subevent, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 31
+name: Figure28_Panel2_pt0
+---
+data_file: figure28_panel2_pt1.yaml
+description: sc_2_3{4}, 3-subevent, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 31
+name: Figure28_Panel2_pt1
+---
+data_file: figure28_panel2_pt2.yaml
+description: sc_2_3{4}, 3-subevent, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 31
+name: Figure28_Panel2_pt2
+---
+data_file: figure28_panel2_pt3.yaml
+description: sc_2_3{4}, 3-subevent, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 31
+name: Figure28_Panel2_pt3
+---
+data_file: figure29_panel1_pt0.yaml
+description: sc_2_4{4}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 32
+name: Figure29_Panel1_pt0
+---
+data_file: figure29_panel1_pt1.yaml
+description: sc_2_4{4}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 32
+name: Figure29_Panel1_pt1
+---
+data_file: figure29_panel1_pt2.yaml
+description: sc_2_4{4}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 32
+name: Figure29_Panel1_pt2
+---
+data_file: figure29_panel1_pt3.yaml
+description: sc_2_4{4}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 32
+name: Figure29_Panel1_pt3
+---
+data_file: figure29_panel2_pt0.yaml
+description: sc_2_4{4}, 3-subevent, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 32
+name: Figure29_Panel2_pt0
+---
+data_file: figure29_panel2_pt1.yaml
+description: sc_2_4{4}, 3-subevent, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 32
+name: Figure29_Panel2_pt1
+---
+data_file: figure29_panel2_pt2.yaml
+description: sc_2_4{4}, 3-subevent, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 32
+name: Figure29_Panel2_pt2
+---
+data_file: figure29_panel2_pt3.yaml
+description: sc_2_4{4}, 3-subevent, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 32
+name: Figure29_Panel2_pt3
+---
+data_file: figure30_panel1_pt0.yaml
+description: ac_2{3}, standard, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 32
+name: Figure30_Panel1_pt0
+---
+data_file: figure30_panel1_pt1.yaml
+description: ac_2{3}, standard, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 32
+name: Figure30_Panel1_pt1
+---
+data_file: figure30_panel1_pt2.yaml
+description: ac_2{3}, standard, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 32
+name: Figure30_Panel1_pt2
+---
+data_file: figure30_panel1_pt3.yaml
+description: ac_2{3}, standard, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 32
+name: Figure30_Panel1_pt3
+---
+data_file: figure30_panel2_pt0.yaml
+description: ac_2{3}, 3-subevent, 0.5<pT<5.0 GeV
+keywords: []
+location: Page 32
+name: Figure30_Panel2_pt0
+---
+data_file: figure30_panel2_pt1.yaml
+description: ac_2{3}, 3-subevent, 1.0<pT<5.0 GeV
+keywords: []
+location: Page 32
+name: Figure30_Panel2_pt1
+---
+data_file: figure30_panel2_pt2.yaml
+description: ac_2{3}, 3-subevent, 1.5<pT<5.0 GeV
+keywords: []
+location: Page 32
+name: Figure30_Panel2_pt2
+---
+data_file: figure30_panel2_pt3.yaml
+description: ac_2{3}, 3-subevent, 2.0<pT<5.0 GeV
+keywords: []
+location: Page 32
+name: Figure30_Panel2_pt3

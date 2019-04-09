@@ -1,6 +1,4 @@
-# ROOTtoYAML_PbPb502
-Conversion from ROOT to YAML
-
+# ROOTtoYAML
 HEPData, convert ROOT files to YAML files, by Mingliang Zhou
 
 Step 1: Install ROOT, Python 2, numpy, pandas, hepdata_lib
