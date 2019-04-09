@@ -167,19 +167,19 @@ independent_variables:
     name: Et
     units: TeV
   values:
-  - value: 0.12079
-  - value: 0.1699
-  - value: 0.21886
-  - value: 0.26775
-  - value: 0.31661
-  - value: 0.36543
-  - value: 0.41426
-  - value: 0.46306
-  - value: 0.51187
-  - value: 0.56067
-  - value: 0.60946
-  - value: 0.65824
-  - value: 0.70703
-  - value: 0.7558
-  - value: 0.80459
-  - value: 0.85335
+  - value: 0.49522
+  - value: 0.69657
+  - value: 0.89732
+  - value: 1.0978
+  - value: 1.2981
+  - value: 1.4983
+  - value: 1.6985
+  - value: 1.8986
+  - value: 2.0986
+  - value: 2.2987
+  - value: 2.4988
+  - value: 2.6988
+  - value: 2.8988
+  - value: 3.0988
+  - value: 3.2988
+  - value: 3.4988

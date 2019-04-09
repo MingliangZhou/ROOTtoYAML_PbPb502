@@ -43,7 +43,7 @@ void cutX(TGraphAsymmErrors*& gSts, double cuts_low, double cuts_up)
   }
 }
 
-void extract(TFile* fOut, const char* fName, const char* cName, const char* hName, int nPad, bool modXbin, bool dummy=0)
+void extract(TFile* fOut, const char* fName, const char* cName, const char* hName, int nPad, int modXbin, bool dummy=0)
 {
 	TFile* fIn = new TFile(fName);
 	TCanvas* can = (TCanvas*)fIn->Get(cName);
@@ -69,14 +69,16 @@ void extract(TFile* fOut, const char* fName, const char* cName, const char* hNam
 				}
 				else sprintf(name, "%s_pad%d_%s",hName,iP+1,gSts->GetName());
 				gSts->SetName(name);
-				if(modXbin)
+				if(modXbin>0)
 				{
 					for(int i=0; i<gSts->GetN(); i++)
 					{
 						double x;
 						double y;
 						gSts->GetPoint(i, x, y);
-						gSts->SetPoint(i, 100*(1-x), y);
+						if(modXbin==1) gSts->SetPoint(i, 100*(1-x), y);
+						if(modXbin==2) gSts->SetPoint(i, 4.1*x, y);
+						if(modXbin==3) gSts->SetPoint(i, 2800.*x, y);
 					}
 				}
 				gSts->Write();
@@ -92,17 +94,20 @@ void extract(TFile* fOut, const char* fName, const char* cName, const char* hNam
 				}
 				else sprintf(name, "%s_pad%d_%s",hName,iP+1,gSys->GetName());
 				gSys->SetName(name);
-				if(modXbin)
+				if(modXbin>0)
 				{
 					for(int i=0; i<gSys->GetN(); i++)
 					{
 						double x;
 						double y;
 						gSys->GetPoint(i, x, y);
-						gSys->SetPoint(i, 100*(1-x), y);
+						if(modXbin==1) gSys->SetPoint(i, 100*(1-x), y);
+						if(modXbin==2) gSys->SetPoint(i, 4.1*x, y);
+						if(modXbin==3) gSys->SetPoint(i, 2800.*x, y);
 					}
 				}
 				if(nPad==2 && modXbin==1 && dummy==1) cutX(gSys, 0, 60);
+				if(nPad==1 && modXbin==2 && dummy==0) cutX(gSys, 0, 4.1);
 				gSys->Write();
 			}
 			//cout<<"Reading: "<<obj->GetName()<<endl;
@@ -115,12 +120,12 @@ void toPlot()
 {
 	TFile* fOut = new TFile("fromCanvas.root","RECREATE");
 	extract(fOut, "5TeVPbPbsbys3.root", "comp_vn6vn4_har2_Cent", "fig07", 1, 1);
-	extract(fOut, "5TeVPbPbsbys3.root", "comp_vn6vn4_har2_FCal", "fig18a", 1, 0);
-	extract(fOut, "5TeVPbPbsbys3.root", "comp_vn6vn4_har2_Nchb", "fig18b", 1, 0);
+	extract(fOut, "5TeVPbPbsbys3.root", "comp_vn6vn4_har2_FCal", "fig18a", 1, 2);
+	extract(fOut, "5TeVPbPbsbys3.root", "comp_vn6vn4_har2_Nchb", "fig18b", 1, 2);
 	extract(fOut, "5TeVPbPbsbys_v1only.root", "papercompv1only_c4sub_Cent_har1", "fig08", 2, 1, 1);
 	extract(fOut, "5TeVPbPbsbys_v1only.root", "papercompv1only_v4sub_Cent_har1", "fig09", 2, 1, 1);
-	extract(fOut, "5TeVPbPbsbys3.root", "comp_vn2rat_FCal", "fig14a", 3, 0);
-	extract(fOut, "5TeVPbPbsbys3.root", "comp_vn2rat_Nch", "fig14b", 3, 0);
+	extract(fOut, "5TeVPbPbsbys3.root", "comp_vn2rat_FCal", "fig14a", 3, 2);
+	extract(fOut, "5TeVPbPbsbys3.root", "comp_vn2rat_Nch", "fig14b", 3, 3);
 	fOut->Close();
 }
 
